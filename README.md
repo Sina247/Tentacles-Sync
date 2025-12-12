@@ -1,0 +1,21 @@
+# 🔗 Tentacles Sync
+
+A **smooth interactive animation** built entirely with **HTML, CSS, and JavaScript**. Move your mouse and watch a ball with trailing objects follow seamlessly with fluid motion.
+
+---
+
+## 🚀 Features
+
+- 🟢 **Interactive motion** : The ball and trailing objects follow your mouse naturally.  
+- ✨ **Smooth animation** : Fluid, lag-free movement for a perfect visual experience.  
+- 🎨 **Visual effects** : Objects behind the ball create a dynamic, lively trail.  
+- 🖥️ **Browser-based** : Runs directly in any modern browser, no backend required.  
+- 📱 **Responsive design** : Works well on both desktop and mobile devices.  
+- ⚡ **Lightweight & fast** : Fully front-end implementation, optimized for performance.  
+- 🧩 **Easy integration** : Simple structure for embedding in any web project.  
+
+---
+
+## 🖼️ Screenshot
+
+<img width="1919" height="931" alt="Tentacles Sync Screenshot" src="https://your-screenshot-link-here.com" />
